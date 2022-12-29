@@ -20,6 +20,11 @@ module.exports = {
         lightgray : "#333333",
         bordergray: "#D3DEE8",
         textgray: " #7B7B7B",
+        darkgray :" #263048",
+        linegray:"#D3DEE8",
+        boxcolor:"#EEF7FF",
+        pink:"#FAF8FB",
+        bgsubs:"#455463",
       },
       // backgroundImage: {
       //   'home': "url('/images/architecture.png')",

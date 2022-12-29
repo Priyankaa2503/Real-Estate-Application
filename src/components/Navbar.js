@@ -10,7 +10,7 @@ const Navbar = () => {
             <div className="text-white  font-roboto ml-4 mt-4 pt-1 mr-80"><p>mail.uremail.com</p></div> 
             <div className=" hidden md:flex flex-wrap justify-content-end">
              <div className="w-[20px] h-[30px] pt-6 ml-40"><img src ="/assets/images/login.png"  alt = "" /> </div>
-            <div className="text-white font-roboto ml-4 mt-4 pt-1"><p>Login/Signup</p></div>        
+            <a href ="#" className="text-white font-roboto ml-4 mt-4 pt-1">Login/Signup</a>        
             </div>        
             </div>       
         </div>
@@ -25,7 +25,7 @@ const Navbar = () => {
                 <a href ='#' className="hover:text-blue font-roboto ">Blog</a>
                 <a href ='#' className="hover:text-blue font-roboto ">Agents</a>
                 <a href ='#' className="hover:text-blue font-roboto ">FAQs</a>
-                <a href ='#className="hover:text-blue"'>Contact Us</a>
+                <a href ='#' className="hover:text-blue font-roboto">Contact Us</a>
                 <img src ="/assets/images/menu.png"  alt = "" /> 
                 </div>
             </div>
